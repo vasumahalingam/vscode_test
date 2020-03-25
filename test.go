@@ -1,6 +1,7 @@
 package main
+
 import "fmt"
 
 func main() {
-	fmt.Println("Hello VSCode World")
+	fmt.Println("Hello VSCode World!")
 }
